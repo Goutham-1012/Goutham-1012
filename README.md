@@ -25,15 +25,15 @@
 <a href="mailto:gunnalagouthamreddy0@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/GouthamReddyGunnala">
+<a href="https://github.com/Goutham-1012">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GouthamReddyGunnala&style=flat-square&color=7C3AED&label=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/GouthamReddyGunnala?style=flat-square&color=6D28D9&labelColor=111827&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/GouthamReddyGunnala?style=flat-square&color=A78BFA&labelColor=111827&logo=github&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=Goutham-1012&style=flat-square&color=7C3AED&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/Goutham-1012?style=flat-square&color=6D28D9&labelColor=111827&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/Goutham-1012/Goutham-1012?style=flat-square&color=A78BFA&labelColor=111827&logo=github&label=Stars" />
 
 <br/><br/>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=About+%E2%80%A2+AI+Engineer+%E2%80%A2+Software+Builder+%E2%80%A2+Product+Mindset" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=About+%E2%80%A2+AI+Engineer+%E2%80%A2+Software+Builder+%E2%80%A2+Product+Mindset" />
 
 </div>
 
@@ -73,7 +73,7 @@ Beyond model development, I bring a strong **product engineering mindset**: clea
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=Tech+Stack+%E2%80%A2+Cloud+Native+%E2%80%A2+AI+First+%E2%80%A2+Enterprise+Ready" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Tech+Stack+%E2%80%A2+Cloud+Native+%E2%80%A2+AI+First+%E2%80%A2+Enterprise+Ready" />
 
 </div>
 
@@ -101,6 +101,7 @@ Beyond model development, I bring a strong **product engineering mindset**: clea
   <img src="https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Dash-4F46E5?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-2563EB?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
 ### Backend & Databases
@@ -125,6 +126,7 @@ Beyond model development, I bring a strong **product engineering mindset**: clea
 
 <p align="center">
   <img src="https://img.shields.io/badge/SageMaker-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20OpenAI-4F46E5?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Vertex%20AI-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-7C3AED?style=for-the-badge&logo=mlflow&logoColor=white" />
@@ -135,7 +137,7 @@ Beyond model development, I bring a strong **product engineering mindset**: clea
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=AI+%2F+ML+Expertise+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+MLOps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=AI+%2F+ML+Expertise+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+MLOps" />
 
 </div>
 
@@ -158,7 +160,7 @@ Beyond model development, I bring a strong **product engineering mindset**: clea
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=Featured+Projects+%E2%80%A2+Production+AI+%E2%80%A2+Enterprise+Scale" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Featured+Projects+%E2%80%A2+Production+AI+%E2%80%A2+Enterprise+Scale" />
 
 </div>
 
@@ -178,7 +180,7 @@ A production-grade retrieval-augmented generation platform designed to deliver i
 | Performance | Improved contextual relevance by 65% through memory-aware response generation          |
 | Security    | Compliance-grounded retrieval, controlled response generation, hallucination reduction |
 | Impact      | Enabled faster advisory workflows and improved client-facing semantic search accuracy  |
-| Repository  | [View Project](https://github.com/GouthamReddyGunnala/real-time-rag-advisor-platform)  |
+| Repository  | [Repository Index](https://github.com/Goutham-1012?tab=repositories)                   |
 
 This platform combines vector search, multi-turn memory, semantic ranking, and domain-aware prompting to support real-time Q&A over structured and unstructured financial knowledge. It was engineered with production reliability in mind, including modular retrieval layers, prompt controls, and scalable API integration.
 
@@ -191,14 +193,14 @@ This platform combines vector search, multi-turn memory, semantic ranking, and d
 
 A generative AI pipeline for branded image synthesis using diffusion models and fine-tuning workflows for marketing personalization and creative automation.
 
-| Category    | Details                                                                                    |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| Stack       | Stable Diffusion, DreamBooth, PyTorch Lightning, AWS EC2, Streamlit, Gradio                |
-| Scale       | Fine-tuned on branded product datasets for controlled generation                           |
-| Performance | Reduced distributed training time by 40% using DDP optimization                            |
-| Security    | Internal tooling with controlled dataset access and workflow isolation                     |
-| Impact      | Enabled design and branding teams to generate personalized visual assets faster            |
-| Repository  | [View Project](https://github.com/GouthamReddyGunnala/diffusion-image-generation-pipeline) |
+| Category    | Details                                                                         |
+| ----------- | ------------------------------------------------------------------------------- |
+| Stack       | Stable Diffusion, DreamBooth, PyTorch Lightning, AWS EC2, Streamlit, Gradio     |
+| Scale       | Fine-tuned on branded product datasets for controlled generation                |
+| Performance | Reduced distributed training time by 40% using DDP optimization                 |
+| Security    | Internal tooling with controlled dataset access and workflow isolation          |
+| Impact      | Enabled design and branding teams to generate personalized visual assets faster |
+| Repository  | [Repository Index](https://github.com/Goutham-1012?tab=repositories)            |
 
 This project demonstrates end-to-end generative AI product engineering: dataset preparation, fine-tuning, distributed training, model packaging, and lightweight internal UI deployment. The system was designed for creative teams needing brand-aligned image generation without exposing internal assets externally.
 
@@ -211,14 +213,14 @@ This project demonstrates end-to-end generative AI product engineering: dataset 
 
 An explainable AI framework for credit risk scoring using transformer-based feature intelligence, fairness evaluation, and compliance-aligned model monitoring.
 
-| Category    | Details                                                                                   |
-| ----------- | ----------------------------------------------------------------------------------------- |
-| Stack       | Transformers, SHAP, LIME, Fairlearn, Kubeflow, Airflow, Python                            |
-| Scale       | Designed for regulatory-aligned risk modeling and retraining workflows                    |
-| Performance | Improved audit transparency through explainable scoring outputs                           |
-| Security    | Bias monitoring, fairness metrics, drift checks, compliance-ready reporting               |
-| Impact      | Helped expose hidden model bias and improve regulatory review readiness                   |
-| Repository  | [View Project](https://github.com/GouthamReddyGunnala/llm-credit-risk-modeling-framework) |
+| Category    | Details                                                                     |
+| ----------- | --------------------------------------------------------------------------- |
+| Stack       | Transformers, SHAP, LIME, Fairlearn, Kubeflow, Airflow, Python              |
+| Scale       | Designed for regulatory-aligned risk modeling and retraining workflows      |
+| Performance | Improved audit transparency through explainable scoring outputs             |
+| Security    | Bias monitoring, fairness metrics, drift checks, compliance-ready reporting |
+| Impact      | Helped expose hidden model bias and improve regulatory review readiness     |
+| Repository  | [Repository Index](https://github.com/Goutham-1012?tab=repositories)        |
 
 The framework integrates explainability and responsible AI into the machine learning lifecycle. It supports model interpretation, fairness evaluation, retraining orchestration, and compliance monitoring for high-stakes financial decision systems.
 
@@ -238,7 +240,7 @@ An enterprise AI system for renewable energy planning, grid optimization workflo
 | Performance | Reduced manual intervention by 55% and improved decision latency by 40%           |
 | Security    | Enterprise governance, model versioning, drift detection, controlled API services |
 | Impact      | Accelerated operational decision-making across grid optimization workflows        |
-| Repository  | [Enterprise Deployment](https://github.com/GouthamReddyGunnala)                   |
+| Repository  | [Enterprise Deployment](https://github.com/Goutham-1012)                          |
 
 The system applies multi-agent orchestration to automate complex planning and decision workflows. It combines retrieval, reasoning, model inference, observability, and governed deployment practices to support enterprise-grade AI adoption in the energy sector.
 
@@ -251,14 +253,14 @@ The system applies multi-agent orchestration to automate complex planning and de
 
 A real-time anomaly detection platform for high-volume timeseries and sensor data using distributed processing, deep learning, and cloud-native deployment.
 
-| Category    | Details                                                                                     |
-| ----------- | ------------------------------------------------------------------------------------------- |
-| Stack       | PyTorch, Apache Kafka, Apache Spark, AWS, Docker, Kubernetes, Prometheus                    |
-| Scale       | Processed 50TB+ daily timeseries, SCADA, and telemetry data                                 |
-| Performance | Identified instability events 45% faster than legacy rule-based systems                     |
-| Security    | Monitored pipelines, controlled inference services, observable production workflows         |
-| Impact      | Improved operational reliability and faster anomaly response                                |
-| Repository  | [View Project](https://github.com/GouthamReddyGunnala/streaming-anomaly-detection-platform) |
+| Category    | Details                                                                             |
+| ----------- | ----------------------------------------------------------------------------------- |
+| Stack       | PyTorch, Apache Kafka, Apache Spark, AWS, Docker, Kubernetes, Prometheus            |
+| Scale       | Processed 50TB+ daily timeseries, SCADA, and telemetry data                         |
+| Performance | Identified instability events 45% faster than legacy rule-based systems             |
+| Security    | Monitored pipelines, controlled inference services, observable production workflows |
+| Impact      | Improved operational reliability and faster anomaly response                        |
+| Repository  | [Repository Index](https://github.com/Goutham-1012?tab=repositories)                |
 
 This platform focuses on scalable real-time intelligence. It combines streaming ingestion, distributed feature processing, model inference, monitoring, and alerting to detect anomalies across large operational datasets.
 
@@ -268,7 +270,7 @@ This platform focuses on scalable real-time intelligence. It combines streaming 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=Experience+%E2%80%A2+Engineering+Impact+%E2%80%A2+AI+Delivery" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Experience+%E2%80%A2+Engineering+Impact+%E2%80%A2+AI+Delivery" />
 
 </div>
 
@@ -383,7 +385,7 @@ Engineered scalable analytics, biomedical data pipelines, cloud migrations, and 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=Achievements+%E2%80%A2+Scale+%E2%80%A2+Reliability+%E2%80%A2+Business+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Achievements+%E2%80%A2+Scale+%E2%80%A2+Reliability+%E2%80%A2+Business+Impact" />
 
 </div>
 
@@ -407,7 +409,7 @@ Engineered scalable analytics, biomedical data pipelines, cloud migrations, and 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=Certifications+%E2%80%A2+Cloud+%E2%80%A2+AI+%E2%80%A2+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Certifications+%E2%80%A2+Cloud+%E2%80%A2+AI+%E2%80%A2+Engineering" />
 
 </div>
 
@@ -448,19 +450,25 @@ Engineered scalable analytics, biomedical data pipelines, cloud migrations, and 
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Coding+Profiles+%E2%80%A2+Problem+Solving+%E2%80%A2+Algorithms" />
+
+</div>
+
 ## Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/GouthamReddyGunnala">
+  <a href="https://leetcode.com/Goutham-1012">
     <img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/GouthamReddyGunnala">
+  <a href="https://www.geeksforgeeks.org/user/Goutham-1012">
     <img src="https://img.shields.io/badge/GeeksforGeeks-020617?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
   </a>
-  <a href="https://www.hackerrank.com/GouthamReddyGunnala">
+  <a href="https://www.hackerrank.com/Goutham-1012">
     <img src="https://img.shields.io/badge/HackerRank-020617?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
   </a>
-  <a href="https://www.codechef.com/users/GouthamReddyGunnala">
+  <a href="https://www.codechef.com/users/Goutham-1012">
     <img src="https://img.shields.io/badge/CodeChef-020617?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
   </a>
 </p>
@@ -469,7 +477,7 @@ Engineered scalable analytics, biomedical data pipelines, cloud migrations, and 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=GitHub+Analytics+%E2%80%A2+Code+Velocity+%E2%80%A2+Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=GitHub+Analytics+%E2%80%A2+Code+Velocity+%E2%80%A2+Open+Source" />
 
 </div>
 
@@ -477,60 +485,85 @@ Engineered scalable analytics, biomedical data pipelines, cloud migrations, and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GouthamReddyGunnala&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
-<img height="180em" src="https://streak-stats.demolab.com?user=GouthamReddyGunnala&theme=midnight-purple&hide_border=true&background=020617&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=FFFFFF&dates=94A3B8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goutham-1012&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Goutham-1012&theme=midnight-purple&hide_border=true&background=020617&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=FFFFFF&dates=94A3B8" />
 
 <br/><br/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamReddyGunnala&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-1012&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB" />
 
 <br/><br/>
 
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GouthamReddyGunnala&theme=github_dark" />
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goutham-1012&theme=github_dark" />
 
 <br/><br/>
 
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GouthamReddyGunnala&theme=github_dark" />
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GouthamReddyGunnala&theme=github_dark" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goutham-1012&theme=github_dark" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Goutham-1012&theme=github_dark" />
 
 <br/><br/>
 
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GouthamReddyGunnala&theme=github_dark" />
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GouthamReddyGunnala&theme=github_dark&utcOffset=-4" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goutham-1012&theme=github_dark" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Goutham-1012&theme=github_dark&utcOffset=-4" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=GitHub+Trophies+%E2%80%A2+Milestones+%E2%80%A2+Developer+Growth" />
+
+</div>
 
 ## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GouthamReddyGunnala&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Goutham-1012&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Contribution+Activity+%E2%80%A2+Consistency+%E2%80%A2+Execution" />
+
+</div>
 
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GouthamReddyGunnala&bg_color=020617&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutham-1012&bg_color=020617&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Contribution+Snake+%E2%80%A2+Automated+GitHub+Activity" />
+
+</div>
 
 ## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GouthamReddyGunnala/GouthamReddyGunnala/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Goutham-1012/Goutham-1012/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Current+Focus+%E2%80%A2+Learning+%E2%80%A2+Building+%E2%80%A2+Exploring" />
+
+</div>
 
 ## Current Focus
 
@@ -563,6 +596,12 @@ Open To:
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Connect+%E2%80%A2+Collaborate+%E2%80%A2+Build+AI+Systems" />
+
+</div>
+
 ## Connect
 
 <p align="center">
@@ -572,7 +611,7 @@ Open To:
   <a href="https://www.linkedin.com/in/goutham-reddy-gunnala">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/GouthamReddyGunnala">
+  <a href="https://github.com/Goutham-1012">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://gouthamreddygunnala.com">
@@ -584,7 +623,7 @@ Open To:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Engineering+intelligent+systems+that+turn+AI+capability+into+production-grade+business+value." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=Engineering+intelligent+systems+that+turn+AI+capability+into+production-grade+business+value." />
 
 <br/>
 
