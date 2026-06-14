@@ -1,632 +1,470 @@
+<!-- ====================== ANIMATED HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:020617,20:111827,45:312E81,70:6D28D9,100:A78BFA&text=Goutham%20Reddy%20Gunnala&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=Senior%20AI%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20LLMOps%20%E2%80%A2%20Full%20Stack%20Product%20Engineering&descAlignY=55&descSize=17&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,30:4c1d95,70:6d28d9,100:7c3aed&height=220&section=header&text=Goutham%20Reddy%20Gunnala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20LLMOps%20%7C%20Agentic%20Systems&descSize=18&descAlignY=58&descAlign=50" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=900&height=45&lines=Architecting+Production+AI+Systems+at+Scale;LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+MLOps;Fine-Tuning+%E2%80%A2+LoRA+%2F+QLoRA+%2F+PEFT+%E2%80%A2+Vector+Search;6%2B+Years+Building+Enterprise-Grade+ML+Pipelines" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=980&height=70&lines=Building+Production-Grade+AI+Systems;Engineering+LLM%2C+RAG+%26+Agentic+AI+Platforms;Scaling+Cloud-Native+ML+Infrastructure;Designing+Enterprise+AI+Products+with+Measurable+Impact" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/MS%20Computer%20Science-University%20of%20Central%20Missouri-6D28D9?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Senior%20AI%20Engineer-Production%20AI-7C3AED?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG%20%7C%20Agents-4F46E5?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/MLOps-Cloud%20Native%20AI-2563EB?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/M.S.%20Computer%20Science-University%20of%20Central%20Missouri-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a0b2e" />
+<img src="https://img.shields.io/badge/📍%20Juno%20Beach,%20FL-USA-6d28d9?style=for-the-badge&labelColor=1a0b2e" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Juno%20Beach%2C%20Florida-020617?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" />
-<a href="https://gouthamreddygunnala.com">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/saidinesh11971">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4c1d95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" />
 </a>
-<a href="https://www.linkedin.com/in/goutham-reddy-gunnala">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" />
 </a>
 <a href="mailto:gunnalagouthamreddy0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" />
 </a>
-<a href="https://github.com/Goutham-1012">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Follow-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Goutham-1012&style=flat-square&color=7C3AED&label=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/Goutham-1012?style=flat-square&color=6D28D9&labelColor=111827&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/Goutham-1012/Goutham-1012?style=flat-square&color=A78BFA&labelColor=111827&logo=github&label=Stars" />
-
-<br/><br/>
-
-<img width="88%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,50:8B5CF6,100:2563EB" />
+<img src="https://komarev.com/ghpvc/?username=goutham-reddy&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/goutham-reddy?style=for-the-badge&color=6d28d9&labelColor=1a0b2e&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/goutham-reddy?style=for-the-badge&color=8b5cf6&labelColor=1a0b2e&logo=github&label=STARS" />
 
 </div>
 
 ---
 
+<!-- ====================== ABOUT ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=About+%E2%80%A2+AI+Engineer+%E2%80%A2+Software+Builder+%E2%80%A2+Product+Mindset" />
+## 🧠 About Me
 
 </div>
 
-## About
+```python
+class GouthamReddyGunnala:
+    def __init__(self):
+        self.role        = "Senior AI/ML Engineer"
+        self.experience  = "6+ years"
+        self.focus       = ["Generative AI", "Agentic Systems", "LLMOps", "Full-Stack ML"]
+        self.domains     = ["Energy", "Finance", "Healthcare", "Retail"]
+        self.mindset     = "Product engineering — ship reliable AI at enterprise scale"
 
-I am a **Senior AI Engineer** focused on building scalable, production-ready software systems powered by **Generative AI, LLMs, RAG, multi-agent architectures, deep learning, and cloud-native MLOps**.
+    def what_i_build(self):
+        return [
+            "Multi-agent AI systems & agentic workflows",
+            "Production RAG pipelines with vector search",
+            "Fine-tuned domain LLMs (LoRA / QLoRA / PEFT)",
+            "End-to-end MLOps & LLMOps governance",
+        ]
+```
 
-My engineering work sits at the intersection of **software architecture, applied machine learning, distributed data systems, and full stack product development**. I specialize in turning complex AI research and enterprise requirements into reliable platforms that can be deployed, monitored, governed, and scaled in real-world environments.
+> I architect and deploy **scalable, production-grade AI systems** — from fine-tuned LLMs and
+> multi-agent orchestration to RAG architectures and full MLOps lifecycles. My work spans the
+> entire engineering stack: building generative AI pipelines, optimizing inference, enforcing
+> responsible-AI compliance, and serving reliable models that hold **99.95% uptime** in the
+> field. I think like a product engineer — performance, governance, and impact over hype.
 
-I have hands-on experience designing and deploying AI systems across **energy, finance, healthcare, aviation, and retail domains**, with deep expertise in **LangChain, LangGraph, LlamaIndex, Hugging Face, PyTorch, TensorFlow, AWS Bedrock, Azure OpenAI, SageMaker, Vertex AI, Kubernetes, vector databases, streaming pipelines, and model observability**.
-
-Beyond model development, I bring a strong **product engineering mindset**: clean APIs, usable interfaces, secure architecture, measurable impact, maintainable infrastructure, and business-aligned execution.
-
-<br/>
-
-**Open To**
-
-* Senior AI Engineer / Generative AI Engineer roles
-* Machine Learning Engineer and Applied AI Engineer opportunities
-* Full Stack AI Product Engineering roles
-* LLMOps / MLOps / Cloud AI Platform Engineering
-* Open-source collaboration in AI agents, RAG, and developer tooling
+**🤝 Open To:** Senior AI/ML Engineering · Generative AI · ML Platform/Infrastructure · LLMOps · AI Research Engineering roles.
 
 ---
 
+<!-- ====================== TECH STACK ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Tech+Stack+%E2%80%A2+Cloud+Native+%E2%80%A2+AI+First+%E2%80%A2+Enterprise+Ready" />
-
-</div>
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
+![Skill Icons](https://skillicons.dev/icons?i=python,js,ts,bash&theme=dark)
+<br/>
+<img src="https://img.shields.io/badge/SQL-4c1d95?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SPARQL-6d28d9?style=flat-square&logoColor=white" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,bash,r,cpp&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-312E81?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20Engineering-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Development-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dash-4F46E5?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-2563EB?style=for-the-badge&logo=powerbi&logoColor=white" />
-</p>
+### Frontend & UI
+![Skill Icons](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark)
+<br/>
+<img src="https://img.shields.io/badge/Streamlit-7c3aed?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-6d28d9?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Dash-4c1d95?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-8b5cf6?style=flat-square&logo=powerbi&logoColor=white" />
 
 ### Backend & Databases
+![Skill Icons](https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb,redis,graphql&theme=dark)
+<br/>
+<img src="https://img.shields.io/badge/Neo4j-4c1d95?style=flat-square&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-6d28d9?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-7c3aed?style=flat-square&logo=googlebigquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-8b5cf6?style=flat-square&logo=elasticsearch&logoColor=white" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,graphql,mongodb,postgres,mysql,redis,elasticsearch&theme=dark" />
-</p>
+### AI / ML / GenAI
+<img src="https://img.shields.io/badge/PyTorch-4c1d95?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-6d28d9?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-7c3aed?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/JAX-8b5cf6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-4c1d95?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-6d28d9?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-7c3aed?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-8b5cf6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-4c1d95?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-6d28d9?style=flat-square&logo=anthropic&logoColor=white" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pinecone-6D28D9?style=for-the-badge&logo=pinboard&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-7C3AED?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weaviate-4F46E5?style=for-the-badge&logo=webauthn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Milvus-2563EB?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-312E81?style=for-the-badge&logo=neo4j&logoColor=white" />
-</p>
+### Vector Stores
+<img src="https://img.shields.io/badge/FAISS-4c1d95?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-6d28d9?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Weaviate-7c3aed?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-8b5cf6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Milvus-4c1d95?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-6d28d9?style=flat-square&logoColor=white" />
 
 ### Cloud, DevOps & Tooling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,git,linux,prometheus,grafana&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SageMaker-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-4F46E5?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-7C3AED?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubeflow-312E81?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=AI+%2F+ML+Expertise+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+MLOps" />
+![Skill Icons](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,grafana,prometheus&theme=dark)
+<br/>
+<img src="https://img.shields.io/badge/SageMaker-4c1d95?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Bedrock-6d28d9?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex%20AI-7c3aed?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-8b5cf6?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubeflow-4c1d95?style=flat-square&logo=kubeflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Triton-6d28d9?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-7c3aed?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-8b5cf6?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-4c1d95?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-6d28d9?style=flat-square&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorRT-7c3aed?style=flat-square&logo=nvidia&logoColor=white" />
 
 </div>
 
-## AI / ML Expertise
-
-| Domain                         |           Proficiency | Details                                                                                                      |
-| ------------------------------ | --------------------: | ------------------------------------------------------------------------------------------------------------ |
-| Large Language Models          |              Advanced | GPT-4o, Claude, Gemini, LLaMA, Mistral, BERT, T5, prompt engineering, function calling, multi-turn reasoning |
-| Retrieval-Augmented Generation |              Advanced | LangChain, LlamaIndex, Pinecone, FAISS, Weaviate, ChromaDB, Milvus, pgvector, semantic chunking, embeddings  |
-| Agentic AI Systems             |              Advanced | LangGraph, AutoGen, CrewAI, tool-use agents, ReAct workflows, multi-agent orchestration, memory-aware agents |
-| Deep Learning                  |              Advanced | PyTorch, TensorFlow, Keras, JAX, transformers, GANs, VAEs, diffusion models, multimodal learning             |
-| MLOps / LLMOps                 |              Advanced | MLflow, SageMaker, Vertex AI, Azure ML, Kubeflow, KServe, Triton, TorchServe, model governance               |
-| Data Engineering               |              Advanced | Kafka, Spark, Airflow, Flink, NiFi, dbt, Delta Lake, Databricks, Snowflake, BigQuery, Redshift               |
-| Model Deployment               |              Advanced | Docker, Kubernetes, ONNX, TensorRT, FastAPI, REST, GraphQL, gRPC, quantization, inference optimization       |
-| Responsible AI                 |              Advanced | SHAP, LIME, Fairlearn, bias detection, hallucination reduction, explainability, compliance, PII redaction    |
-| Computer Vision                | Intermediate-Advanced | CLIP, GPT-4o Vision, satellite imagery analysis, inspection intelligence, multimodal pipelines               |
-| Knowledge Systems              | Intermediate-Advanced | Neo4j, RDF, SPARQL, knowledge graphs, graph neural networks, semantic search systems                         |
-
 ---
 
+<!-- ====================== AI/ML EXPERTISE ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Featured+Projects+%E2%80%A2+Production+AI+%E2%80%A2+Enterprise+Scale" />
+## 🤖 AI / ML Expertise
 
 </div>
 
-## Featured Projects
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Large Language Models** | ⭐⭐⭐⭐⭐ | Fine-tuning (LoRA, QLoRA, PEFT), GPT-4o, LLaMA 3, Mistral, BERT, T5 — text, code & multimodal generation |
+| **Retrieval-Augmented Generation** | ⭐⭐⭐⭐⭐ | LlamaIndex, semantic chunking, embedding pipelines, multi-turn memory, hallucination reduction |
+| **Agentic AI Systems** | ⭐⭐⭐⭐⭐ | LangGraph, AutoGen, CrewAI, ReAct, tool use, multi-agent orchestration & function calling |
+| **MLOps / LLMOps** | ⭐⭐⭐⭐⭐ | MLflow, SageMaker, Vertex AI, Triton, drift detection, A/B testing, model governance |
+| **Vector Search** | ⭐⭐⭐⭐⭐ | FAISS, Pinecone, Weaviate, Milvus, pgvector — semantic indexing at 10M+ record scale |
+| **Multimodal AI** | ⭐⭐⭐⭐ | CLIP + GPT-4o Vision, Diffusion Models, Stable Diffusion, DreamBooth, GANs, VAEs |
+| **Deep Learning** | ⭐⭐⭐⭐⭐ | PyTorch, TensorFlow, Keras, JAX — CV, NLP, speech, timeseries forecasting |
+| **Responsible AI** | ⭐⭐⭐⭐ | SHAP, LIME, Fairlearn, RLHF, RLAIF, bias detection, PII redaction, explainability |
+| **Data Engineering** | ⭐⭐⭐⭐ | Kafka, Spark, Airflow, Flink, NiFi, Snowflake, Databricks, Delta Lake, distributed ETL |
+
+---
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
 
 <details>
-<summary><b>Real-Time RAG Advisor Platform</b></summary>
+<summary><b>🔎 Real-Time RAG Advisor Platform</b></summary>
 
 <br/>
 
-A production-grade retrieval-augmented generation platform designed to deliver intelligent, context-aware advisory responses using compliance documents, portfolio data, and semantic retrieval pipelines.
+A retrieval-augmented generation system delivering personalized investment insights from compliance documents and portfolio data, powering Q&A bots for financial advisors.
 
-| Category    | Details                                                                                |
-| ----------- | -------------------------------------------------------------------------------------- |
-| Stack       | LangChain, OpenAI GPT-4, Pinecone, FAISS, FastAPI, Python                              |
-| Scale       | Indexed enterprise knowledge bases and portfolio intelligence layers                   |
-| Performance | Improved contextual relevance by 65% through memory-aware response generation          |
-| Security    | Compliance-grounded retrieval, controlled response generation, hallucination reduction |
-| Impact      | Enabled faster advisory workflows and improved client-facing semantic search accuracy  |
-| Repository  | [Repository Index](https://github.com/Goutham-1012?tab=repositories)                   |
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | LangChain · OpenAI GPT-4 · Pinecone · FAISS · Python |
+| **Scale** | Millions of indexed vector embeddings across compliance & portfolio corpora |
+| **Performance** | +65% contextual relevance via multi-turn, memory-aware prompting |
+| **Security** | Compliance-document grounding with controlled retrieval scope |
+| **Impact** | Real-time, semantically ranked advisory responses for client-facing advisors |
+| **Repository** | [`View Repository`](https://github.com/) |
 
-This platform combines vector search, multi-turn memory, semantic ranking, and domain-aware prompting to support real-time Q&A over structured and unstructured financial knowledge. It was engineered with production reliability in mind, including modular retrieval layers, prompt controls, and scalable API integration.
+Built semantic ranking pipelines over FAISS embeddings and integrated memory-aware response generation, transforming static document stores into an interactive advisory engine that surfaces risk-linked, citation-grounded answers on demand.
 
 </details>
 
 <details>
-<summary><b>Diffusion-Based Image Generation Pipeline</b></summary>
+<summary><b>🎨 Diffusion-Based Image Generation Pipeline</b></summary>
 
 <br/>
 
-A generative AI pipeline for branded image synthesis using diffusion models and fine-tuning workflows for marketing personalization and creative automation.
+A text-to-image synthesis system fine-tuned on branded product datasets for marketing personalization, packaged as an internal tool for design and branding teams.
 
-| Category    | Details                                                                         |
-| ----------- | ------------------------------------------------------------------------------- |
-| Stack       | Stable Diffusion, DreamBooth, PyTorch Lightning, AWS EC2, Streamlit, Gradio     |
-| Scale       | Fine-tuned on branded product datasets for controlled generation                |
-| Performance | Reduced distributed training time by 40% using DDP optimization                 |
-| Security    | Internal tooling with controlled dataset access and workflow isolation          |
-| Impact      | Enabled design and branding teams to generate personalized visual assets faster |
-| Repository  | [Repository Index](https://github.com/Goutham-1012?tab=repositories)            |
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Stable Diffusion · DreamBooth · PyTorch Lightning · DDP · Streamlit · Gradio |
+| **Scale** | Distributed training on AWS EC2 across multi-GPU clusters |
+| **Performance** | −40% training time through distributed data-parallel orchestration |
+| **Security** | Brand-controlled dataset fine-tuning with isolated training environments |
+| **Impact** | Self-serve branded asset generation adopted by design & branding teams |
+| **Repository** | [`View Repository`](https://github.com/) |
 
-This project demonstrates end-to-end generative AI product engineering: dataset preparation, fine-tuning, distributed training, model packaging, and lightweight internal UI deployment. The system was designed for creative teams needing brand-aligned image generation without exposing internal assets externally.
+Orchestrated end-to-end fine-tuning with PyTorch Lightning and DDP, then shipped a Streamlit/Gradio web tool that let non-technical teams generate on-brand visuals without touching the model layer.
 
 </details>
 
 <details>
-<summary><b>LLM-Powered Credit Risk Modeling Framework</b></summary>
+<summary><b>📊 LLM-Powered Credit Risk Modeling Framework</b></summary>
 
 <br/>
 
-An explainable AI framework for credit risk scoring using transformer-based feature intelligence, fairness evaluation, and compliance-aligned model monitoring.
+A regulatory-aligned credit scoring framework using domain-specific transformer models with full explainability and automated compliance monitoring for retail banking.
 
-| Category    | Details                                                                     |
-| ----------- | --------------------------------------------------------------------------- |
-| Stack       | Transformers, SHAP, LIME, Fairlearn, Kubeflow, Airflow, Python              |
-| Scale       | Designed for regulatory-aligned risk modeling and retraining workflows      |
-| Performance | Improved audit transparency through explainable scoring outputs             |
-| Security    | Bias monitoring, fairness metrics, drift checks, compliance-ready reporting |
-| Impact      | Helped expose hidden model bias and improve regulatory review readiness     |
-| Repository  | [Repository Index](https://github.com/Goutham-1012?tab=repositories)        |
+| Attribute | Detail |
+| :--- | :--- |
+| **Stack** | Transformers · SHAP · LIME · Fairlearn · Kubeflow · Airflow |
+| **Scale** | Retail-banking credit portfolios with automated retraining cycles |
+| **Performance** | Improved fairness metrics while meeting audit transparency standards |
+| **Security** | Bias exposure, drift monitoring & regulatory compliance enforcement |
+| **Impact** | Audit-ready credit decisions with transparent, defensible scoring |
+| **Repository** | [`View Repository`](https://github.com/) |
 
-The framework integrates explainability and responsible AI into the machine learning lifecycle. It supports model interpretation, fairness evaluation, retraining orchestration, and compliance monitoring for high-stakes financial decision systems.
-
-</details>
-
-<details>
-<summary><b>Multi-Agent Energy Grid Optimization System</b></summary>
-
-<br/>
-
-An enterprise AI system for renewable energy planning, grid optimization workflows, operational decision support, and intelligent automation across energy data pipelines.
-
-| Category    | Details                                                                           |
-| ----------- | --------------------------------------------------------------------------------- |
-| Stack       | LangChain, LangGraph, AutoGen, AWS Bedrock, SageMaker, Kubernetes, FastAPI        |
-| Scale       | Built for renewable planning pipelines and large-scale operational workflows      |
-| Performance | Reduced manual intervention by 55% and improved decision latency by 40%           |
-| Security    | Enterprise governance, model versioning, drift detection, controlled API services |
-| Impact      | Accelerated operational decision-making across grid optimization workflows        |
-| Repository  | [Enterprise Deployment](https://github.com/Goutham-1012)                          |
-
-The system applies multi-agent orchestration to automate complex planning and decision workflows. It combines retrieval, reasoning, model inference, observability, and governed deployment practices to support enterprise-grade AI adoption in the energy sector.
-
-</details>
-
-<details>
-<summary><b>Streaming Anomaly Detection Platform</b></summary>
-
-<br/>
-
-A real-time anomaly detection platform for high-volume timeseries and sensor data using distributed processing, deep learning, and cloud-native deployment.
-
-| Category    | Details                                                                             |
-| ----------- | ----------------------------------------------------------------------------------- |
-| Stack       | PyTorch, Apache Kafka, Apache Spark, AWS, Docker, Kubernetes, Prometheus            |
-| Scale       | Processed 50TB+ daily timeseries, SCADA, and telemetry data                         |
-| Performance | Identified instability events 45% faster than legacy rule-based systems             |
-| Security    | Monitored pipelines, controlled inference services, observable production workflows |
-| Impact      | Improved operational reliability and faster anomaly response                        |
-| Repository  | [Repository Index](https://github.com/Goutham-1012?tab=repositories)                |
-
-This platform focuses on scalable real-time intelligence. It combines streaming ingestion, distributed feature processing, model inference, monitoring, and alerting to detect anomalies across large operational datasets.
+Integrated SHAP, LIME, and Fairlearn to expose hidden model biases, then automated retraining and compliance-drift monitoring through Kubeflow and Airflow — delivering credit scoring that satisfies both performance and regulatory requirements.
 
 </details>
 
 ---
 
+<!-- ====================== EXPERIENCE ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Experience+%E2%80%A2+Engineering+Impact+%E2%80%A2+AI+Delivery" />
+## 💼 Experience
 
 </div>
 
-## Experience
+### 🔹 Senior AI Engineer · **NextEra Energy**
+`Nov 2024 – Present` · Juno Beach, FL
 
-### Senior AI Engineer — NextEra Energy
+Architecting multi-agent AI and production LLM systems to automate energy grid optimization, predictive maintenance, and regulatory compliance across renewable energy pipelines.
 
-**Nov 2024 – Present**
+- Deployed multi-agent systems (LangChain, LangGraph, AutoGen) cutting manual intervention **55%** and decision latency **40%**
+- Fine-tuned LLaMA 3 / Mistral (LoRA, QLoRA) reaching **92%** forecasting accuracy and reducing unplanned outages **30%**
+- Built RAG pipelines (LlamaIndex, Pinecone, Bedrock) over **10M+** records, lifting query resolution speed **65%**
+- Established MLOps governance (MLflow, W&B, Triton, SageMaker) — **99.95%** uptime, **70%** faster rollbacks
+- Containerized inference (Docker, EKS, ONNX, TensorRT, FastAPI) cutting latency **48%** and compute cost **32%**
 
-Building enterprise AI systems for energy grid optimization, renewable planning, predictive maintenance, intelligent document retrieval, and production LLMOps.
-
-**Scope of Work**
-
-* Architected multi-agent AI systems using LangChain, LangGraph, and AutoGen for energy workflow automation.
-* Built RAG pipelines using LlamaIndex, Pinecone, and AWS Bedrock across large regulatory and grid operations records.
-* Fine-tuned domain-specific LLMs using LoRA and QLoRA for forecasting and asset maintenance intelligence.
-* Designed multimodal AI pipelines using CLIP and GPT-4o Vision for satellite imagery and inspection analysis.
-* Implemented MLOps governance using MLflow, Weights & Biases, Triton Inference Server, and AWS SageMaker.
-* Deployed inference services using Docker, Kubernetes, ONNX, TensorRT, and FastAPI.
-* Applied SHAP, LIME, and Fairlearn to deliver explainable AI dashboards for regulated decision-making.
-
-**Skills**
-
-`LangChain` `LangGraph` `AutoGen` `AWS Bedrock` `SageMaker` `PyTorch` `LLMOps` `RAG` `Kubernetes` `FastAPI` `Triton` `Responsible AI`
+`LangGraph` `AutoGen` `LoRA/QLoRA` `RAG` `Triton` `Kubernetes` `PyTorch` `Kafka`
 
 <br/>
 
-### Generative AI Engineer — Fiserv, Inc.
+### 🔹 Generative AI Engineer · **Fiserv, Inc**
+`Oct 2024 – Present` · Overland Park, KS
 
-**Oct 2024 – Present**
+Designed LLM-powered automation, fraud detection, and explainable advisory tooling for enterprise financial services and regulatory compliance.
 
-Engineering LLM-powered compliance, fraud detection, advisory intelligence, explainability, and risk modeling systems for financial technology environments.
+- Built LLM compliance chatbots (BERT, LangChain, Hugging Face) reducing manual processing **60%**
+- Engineered real-time fraud detection (Spark, Kafka, vector reps) boosting anomaly detection **25%**
+- Developed advisory tools (Pinecone, GPT-4, LangChain) raising semantic accuracy & satisfaction **40%**
+- Constructed financial knowledge graphs (Neo4j, RDF) for **50%** faster risk-linked retrieval
 
-**Scope of Work**
-
-* Designed LLM-powered chatbots using BERT, LangChain, and Hugging Face for compliance query automation.
-* Built real-time fraud detection pipelines using Apache Spark, Kafka, and vector-based representations.
-* Integrated Pinecone, OpenAI GPT-4, and LangChain for semantic advisory tools.
-* Migrated inference workloads to AWS SageMaker with ONNX and TensorRT containers.
-* Built SHAP and LIME dashboards for credit scoring transparency and regulatory audit support.
-* Automated deployment monitoring using Jenkins, Prometheus, and GitHub Actions.
-
-**Skills**
-
-`Generative AI` `BERT` `LangChain` `Pinecone` `OpenAI` `Kafka` `Spark` `SageMaker` `ONNX` `TensorRT` `Jenkins` `Prometheus`
+`LangChain` `GPT-4` `Neo4j` `MLflow` `Kubeflow` `SHAP/LIME` `Prometheus`
 
 <br/>
 
-### Machine Learning Engineer — Textron Aviation
+### 🔹 Machine Learning Engineer · **Textron Aviation**
+`Oct 2023 – Sept 2024` · Wichita, KS
 
-**Oct 2023 – Sept 2024**
+Delivered large-scale claims analytics, streaming pipelines, and deep learning models with full CI/CD and cloud-cost optimization.
 
-Developed machine learning, cloud infrastructure, streaming data, and analytics systems for aviation, risk, claims, and customer intelligence workflows.
+- Processed **100TB+** claims data (Spark, Hadoop) increasing fraud detection accuracy **20%**
+- Built Kafka + Airflow streaming reducing alert latency **50%**
+- Provisioned infra (Terraform, Kubernetes) cutting AWS compute cost **25%** at peak
 
-**Scope of Work**
-
-* Processed 100TB+ structured and unstructured data using Apache Spark and Hadoop.
-* Built Kafka and Airflow-based streaming architectures for real-time event tracking.
-* Created deep learning models in PyTorch and TensorFlow for churn prediction and underwriting calibration.
-* Integrated CI/CD workflows using Jenkins and GitHub Actions for cloud model deployment.
-* Provisioned cloud infrastructure using Terraform and Kubernetes.
-* Built REST and GraphQL APIs using FastAPI for model-serving workflows.
-* Developed model-driven dashboards in Power BI and Looker.
-
-**Skills**
-
-`PyTorch` `TensorFlow` `Spark` `Kafka` `Airflow` `Terraform` `Kubernetes` `FastAPI` `GraphQL` `Power BI` `Looker`
+`PyTorch` `TensorFlow` `Kafka` `Airflow` `FastAPI` `Terraform` `SageMaker`
 
 <br/>
 
-### Data Scientist — Lowe’s
+### 🔹 Data Scientist · **Lowe's**
+`Feb 2021 – June 2023` · Bangalore, India
 
-**Feb 2021 – Jun 2023**
+Built segmentation, fraud detection, and retrieval engines powering retail analytics and personalization at scale.
 
-Built data science, recommendation, fraud detection, dashboarding, and enterprise retrieval systems for retail analytics and operational intelligence.
+- Customer segmentation (Keras, Transformers) driving **20%** more personalized recommendations
+- Real-time fraud detection (Kafka, Flink) cutting false positives **30%**
+- Accelerated ETL (NiFi, Spark) increasing throughput **45%**
 
-**Scope of Work**
-
-* Built customer segmentation models using Keras and Hugging Face Transformers.
-* Developed real-time fraud detection pipelines using Kafka and Flink.
-* Designed dashboards using Tableau and Plotly for store, inventory, and sales visibility.
-* Automated ML workflows using Apache Airflow and GitLab CI/CD.
-* Scaled inference workloads using Docker and Kubernetes.
-* Delivered document search systems using FAISS and RAG.
-
-**Skills**
-
-`Keras` `Hugging Face` `Kafka` `Flink` `Tableau` `Plotly` `Airflow` `Docker` `Kubernetes` `FAISS` `RAG`
+`Keras` `Transformers` `Kafka` `Flink` `FAISS` `Airflow` `Tableau`
 
 <br/>
 
-### Data Scientist — Siemens
+### 🔹 Data Scientist · **Siemens**
+`Oct 2019 – Jan 2021` · Bangalore, India
 
-**Oct 2019 – Jan 2021**
+Engineered clinical/genomic data platforms, real-time monitoring, and reproducible pipelines for biomedical research.
 
-Engineered scalable analytics, biomedical data pipelines, cloud migrations, and production dashboards for healthcare and clinical research data systems.
+- Migrated analytics dashboards to AWS EKS achieving **98%** global uptime
+- Optimized Cassandra/MongoDB pipelines reducing clinical retrieval time **40%**
+- Built sub-second adverse-event detection (Pulsar, Flink) for patient monitoring
 
-**Scope of Work**
-
-* Containerized analytics dashboards and migrated workloads to AWS EKS.
-* Consolidated genomic and clinical datasets into Snowflake.
-* Optimized pipelines in Cassandra and MongoDB for clinical marker retrieval.
-* Implemented real-time adverse event detection using Apache Pulsar and Flink.
-* Integrated Jenkins with Dockerized services for predictive model deployment.
-* Created SQL analytics layers and materialized views for live dashboards.
-
-**Skills**
-
-`AWS EKS` `Snowflake` `Cassandra` `MongoDB` `Apache Pulsar` `Flink` `Jenkins` `Docker` `SQL` `Clinical Analytics`
+`Kubernetes` `Snowflake` `Flink` `Pulsar` `Jenkins` `Airflow`
 
 ---
 
+<!-- ====================== ACHIEVEMENTS ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Achievements+%E2%80%A2+Scale+%E2%80%A2+Reliability+%E2%80%A2+Business+Impact" />
+## 🏆 Achievements
 
-</div>
-
-## Achievements
-
-<div align="center">
-
-| Recognition                 | Details                                                                                                |
-| --------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Enterprise AI Systems       | Built production-grade AI platforms across energy, finance, healthcare, aviation, and retail domains   |
-| Large-Scale Data Processing | Engineered pipelines processing 50TB+ daily telemetry and 100TB+ enterprise datasets                   |
-| RAG & LLM Platforms         | Designed retrieval systems across millions of enterprise, regulatory, and operational records          |
-| AI Performance Optimization | Reduced inference latency, training time, and cloud compute costs through model optimization           |
-| Responsible AI              | Delivered explainability, fairness, bias detection, and compliance-ready model governance              |
-| Cloud-Native ML             | Deployed scalable AI services using Docker, Kubernetes, SageMaker, Vertex AI, and Azure ML             |
-| Product Engineering         | Built usable AI tools with API-first architecture, monitoring, dashboards, and business impact metrics |
+| Recognition | Details |
+| :---: | :--- |
+| 🎯 **Enterprise AI Reliability** | Maintained **99.95%** production uptime across mission-critical AI services |
+| ⚡ **Inference Optimization** | Cut model inference latency **48%** and cloud compute cost **32%** via quantization & distillation |
+| 📈 **Scale Engineering** | Processed **50TB+** sensor and **100TB+** claims data daily across distributed clusters |
+| 🔬 **RAG at Scale** | Indexed **10M+** records with semantic retrieval, lifting analyst speed **65%** |
+| 🛡️ **Responsible AI** | Delivered explainable, bias-audited models covering **5M+** utility customers |
 
 </div>
 
 ---
 
+<!-- ====================== CERTIFICATIONS ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Certifications+%E2%80%A2+Cloud+%E2%80%A2+AI+%E2%80%A2+Engineering" />
+## 📜 Certifications
 
-</div>
+**Amazon Web Services**
+<br/>
+<img src="https://img.shields.io/badge/AWS%20Certified%20Data%20Engineer-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a0b2e" />
 
-## Certifications
-
-### AWS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Data%20Engineer-Associate-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20AI-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### Cisco
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-2563EB?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-### Microsoft
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Engineer%20Associate-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Coding+Profiles+%E2%80%A2+Problem+Solving+%E2%80%A2+Algorithms" />
-
-</div>
-
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/Goutham-1012">
-    <img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/Goutham-1012">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-020617?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-  </a>
-  <a href="https://www.hackerrank.com/Goutham-1012">
-    <img src="https://img.shields.io/badge/HackerRank-020617?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-  </a>
-  <a href="https://www.codechef.com/users/Goutham-1012">
-    <img src="https://img.shields.io/badge/CodeChef-020617?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=GitHub+Analytics+%E2%80%A2+Code+Velocity+%E2%80%A2+Open+Source" />
-
-</div>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goutham-1012&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Goutham-1012&theme=midnight-purple&hide_border=true&background=020617&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=FFFFFF&dates=94A3B8" />
-
-<br/><br/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-1012&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB" />
-
-<br/><br/>
-
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goutham-1012&theme=github_dark" />
-
-<br/><br/>
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Goutham-1012&theme=github_dark" />
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Goutham-1012&theme=github_dark" />
-
-<br/><br/>
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goutham-1012&theme=github_dark" />
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Goutham-1012&theme=github_dark&utcOffset=-4" />
+**Microsoft**
+<br/>
+<img src="https://img.shields.io/badge/Azure%20AI%20Engineer-Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a0b2e" />
 
 </div>
 
 ---
 
+<!-- ====================== CODING PROFILES ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=GitHub+Trophies+%E2%80%A2+Milestones+%E2%80%A2+Developer+Growth" />
+## 💻 Coding Profiles
 
-</div>
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Goutham-1012&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Contribution+Activity+%E2%80%A2+Consistency+%E2%80%A2+Execution" />
-
-</div>
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutham-1012&bg_color=020617&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0b2e" height="40" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0b2e" height="40" />
+</a>
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-Compete-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0b2e" height="40" />
+</a>
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-Contest-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0b2e" height="40" />
+</a>
 
 </div>
 
 ---
 
+<!-- ====================== GITHUB ANALYTICS ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Contribution+Snake+%E2%80%A2+Automated+GitHub+Activity" />
+## 📊 GitHub Analytics
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=goutham-reddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0b2e&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=goutham-reddy&theme=radical&hide_border=true&background=1a0b2e&ring=a855f7&fire=7c3aed&currStreakLabel=e9d5ff" />
 
-## Contribution Snake
+<br/>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Goutham-1012/Goutham-1012/output/github-contribution-grid-snake-dark.svg" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham-reddy&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=a855f7&text_color=e9d5ff&langs_count=10" />
 
 </div>
 
 ---
 
+<!-- ====================== TROPHIES ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Current+Focus+%E2%80%A2+Learning+%E2%80%A2+Building+%E2%80%A2+Exploring" />
+## 🏅 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=goutham-reddy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
-## Current Focus
+---
+
+<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=goutham-reddy&theme=react-dark&bg_color=1a0b2e&color=a855f7&line=7c3aed&point=e9d5ff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ====================== CONTRIBUTION SNAKE ====================== -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<!-- ====================== CURRENT FOCUS ====================== -->
+<div align="center">
+
+## 🎯 Current Focus
+
+</div>
 
 ```yaml
-Learning:
-  - Advanced LLMOps and AI safety evaluation
-  - Distributed inference optimization
-  - Multi-agent system reliability
-  - Enterprise-grade RAG observability
+learning:
+  - Advanced agentic orchestration (LangGraph, multi-agent planning)
+  - Inference optimization at the edge (TensorRT, quantization)
+  - Reinforcement learning from AI feedback (RLAIF)
 
-Building:
-  - Production RAG platforms
-  - AI agents for workflow automation
-  - Cloud-native ML serving infrastructure
-  - Explainable AI dashboards
+building:
+  - Production RAG systems with sub-second retrieval
+  - Self-healing MLOps pipelines with automated drift remediation
+  - Multimodal AI for predictive maintenance
 
-Exploring:
-  - Multimodal AI systems
-  - Knowledge graph augmented retrieval
-  - Model compression and quantization
-  - Responsible AI governance
+exploring:
+  - Graph neural networks for knowledge-grounded reasoning
+  - Differential privacy & federated learning for regulated domains
+  - Model governance frameworks for responsible AI at scale
 
-Open To:
-  - Senior AI Engineer roles
-  - Generative AI Engineer roles
-  - Machine Learning Engineer roles
-  - Full Stack AI Product Engineering
-  - Open-source AI infrastructure collaboration
+open_to:
+  - Senior AI/ML Engineering roles
+  - Generative AI & LLMOps positions
+  - ML Platform / Infrastructure engineering
 ```
 
 ---
 
+<!-- ====================== CONNECT ====================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Connect+%E2%80%A2+Collaborate+%E2%80%A2+Build+AI+Systems" />
+## 🤝 Connect
+
+<a href="mailto:gunnalagouthamreddy0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" />
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" />
+</a>
+<a href="https://github.com/saidinesh11971">
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" />
+</a>
 
 </div>
-
-## Connect
-
-<p align="center">
-  <a href="mailto:gunnalagouthamreddy0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/goutham-reddy-gunnala">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Goutham-1012">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://gouthamreddygunnala.com">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=Engineering+intelligent+systems+that+turn+AI+capability+into+production-grade+business+value." />
+> *"Engineering intelligence that ships — reliable, explainable, and built to scale."*
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A78BFA,30:6D28D9,65:312E81,100:020617&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:6d28d9,70:4c1d95,100:1a0b2e&height=120&section=footer" />
 
 </div>
