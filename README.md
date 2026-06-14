@@ -45,7 +45,7 @@
 </div>
 
 ```python
-class GouthamReddyGunnala:
+class Goutham-1012:
     def __init__(self):
         self.role        = "Senior AI/ML Engineer"
         self.experience  = "6+ years"
