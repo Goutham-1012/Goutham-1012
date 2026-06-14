@@ -38,14 +38,11 @@
 ---
 
 <!-- ====================== ABOUT ====================== -->
-<div align="center">
 
-## 🧠 About Me
-
-</div>
+<h2 align="center">🧠 About Me</h2>
 
 ```python
-class Goutham-1012:
+class GouthamReddyGunnala:
     def __init__(self):
         self.role        = "Senior AI/ML Engineer"
         self.experience  = "6+ years"
