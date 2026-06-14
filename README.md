@@ -51,7 +51,7 @@ class GouthamReddyGunnala:
         self.experience  = "6+ years"
         self.focus       = ["Generative AI", "Agentic Systems", "LLMOps", "Full-Stack ML"]
         self.domains     = ["Energy", "Finance", "Healthcare", "Retail"]
-        self.mindset     = "Product engineering — ship reliable AI at enterprise scale"
+        self.mindset     = "Product engineering - ship reliable AI at enterprise scale"
 
     def what_i_build(self):
         return [
@@ -335,65 +335,6 @@ Engineered clinical/genomic data platforms, real-time monitoring, and reproducib
 
 </div>
 
----
-
-<!-- ====================== CODING PROFILES ====================== -->
-<div align="center">
-
-## 💻 Coding Profiles
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0b2e" height="40" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0b2e" height="40" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Compete-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0b2e" height="40" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Contest-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0b2e" height="40" />
-</a>
-
-</div>
-
----
-
-<!-- ====================== GITHUB ANALYTICS ====================== -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=goutham-reddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0b2e&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=goutham-reddy&theme=radical&hide_border=true&background=1a0b2e&ring=a855f7&fire=7c3aed&currStreakLabel=e9d5ff" />
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham-reddy&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=a855f7&text_color=e9d5ff&langs_count=10" />
-
-</div>
-
----
-
-<!-- ====================== TROPHIES ====================== -->
-<div align="center">
-
-## 🏅 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=goutham-reddy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=goutham-reddy&theme=react-dark&bg_color=1a0b2e&color=a855f7&line=7c3aed&point=e9d5ff&area=true&hide_border=true" />
-
-</div>
 
 ---
 
