@@ -41,24 +41,6 @@
 
 <h2 align="center">🧠 About Me</h2>
 
-```python
-class GouthamReddyGunnala:
-    def __init__(self):
-        self.role        = "Senior AI/ML Engineer"
-        self.experience  = "6+ years"
-        self.focus       = ["Generative AI", "Agentic Systems", "LLMOps", "Full-Stack ML"]
-        self.domains     = ["Energy", "Finance", "Healthcare", "Retail"]
-        self.mindset     = "Product engineering - ship reliable AI at enterprise scale"
-
-    def what_i_build(self):
-        return [
-            "Multi-agent AI systems & agentic workflows",
-            "Production RAG pipelines with vector search",
-            "Fine-tuned domain LLMs (LoRA / QLoRA / PEFT)",
-            "End-to-end MLOps & LLMOps governance",
-        ]
-```
-
 > I architect and deploy **scalable, production-grade AI systems** — from fine-tuned LLMs and
 > multi-agent orchestration to RAG architectures and full MLOps lifecycles. My work spans the
 > entire engineering stack: building generative AI pipelines, optimizing inference, enforcing
