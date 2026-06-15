@@ -215,7 +215,7 @@ Integrated SHAP, LIME, and Fairlearn to expose hidden model biases, then automat
 </div>
 
 ### 🔹 Senior AI Engineer · **NextEra Energy**
-`Nov 2024 – Present` · Juno Beach, FL
+`Nov 2025 – Present` · Juno Beach, FL
 
 Architecting multi-agent AI and production LLM systems to automate energy grid optimization, predictive maintenance, and regulatory compliance across renewable energy pipelines.
 
@@ -230,7 +230,7 @@ Architecting multi-agent AI and production LLM systems to automate energy grid o
 <br/>
 
 ### 🔹 Generative AI Engineer · **Fiserv, Inc**
-`Oct 2024 – Present` · Overland Park, KS
+`Oct 2024 – Oct 2025` · Overland Park, KS
 
 Designed LLM-powered automation, fraud detection, and explainable advisory tooling for enterprise financial services and regulatory compliance.
 
