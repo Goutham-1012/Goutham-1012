@@ -320,7 +320,7 @@ Engineered clinical/genomic data platforms, real-time monitoring, and reproducib
 <!-- ====================== CONTRIBUTION SNAKE ====================== -->
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
