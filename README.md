@@ -367,13 +367,13 @@ open_to:
 <a href="mailto:gunnalagouthamreddy0@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/gouthamgunnala/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" />
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/Goutham-1012">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" />
 </a>
-<a href="https://github.com/saidinesh11971">
+<a href="https://github.com/Goutham-1012">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" />
 </a>
 
