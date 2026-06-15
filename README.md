@@ -14,24 +14,24 @@
 
 <br/><br/>
 
-<a href="https://github.com/saidinesh11971">
+<a href="https://goutham-1012.github.io/My-Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-4c1d95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/gouthamgunnala/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" />
 </a>
 <a href="mailto:gunnalagouthamreddy0@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" />
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/Goutham-1012">
   <img src="https://img.shields.io/badge/GitHub-Follow-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=goutham-reddy&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/goutham-reddy?style=for-the-badge&color=6d28d9&labelColor=1a0b2e&logo=github&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/goutham-reddy?style=for-the-badge&color=8b5cf6&labelColor=1a0b2e&logo=github&label=STARS" />
+<img src="https://komarev.com/ghpvc/?username=Goutham-1012&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Goutham-1012?style=for-the-badge&color=6d28d9&labelColor=1a0b2e&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Goutham-1012?style=for-the-badge&color=8b5cf6&labelColor=1a0b2e&logo=github&label=STARS" />
 
 </div>
 
@@ -215,7 +215,7 @@ Integrated SHAP, LIME, and Fairlearn to expose hidden model biases, then automat
 </div>
 
 ### 🔹 Senior AI Engineer · **NextEra Energy**
-`Nov 2025 – Present` · Juno Beach, FL
+`Nov 2024 – Present` · Juno Beach, FL
 
 Architecting multi-agent AI and production LLM systems to automate energy grid optimization, predictive maintenance, and regulatory compliance across renewable energy pipelines.
 
@@ -230,7 +230,7 @@ Architecting multi-agent AI and production LLM systems to automate energy grid o
 <br/>
 
 ### 🔹 Generative AI Engineer · **Fiserv, Inc**
-`Oct 2024 – Oct 2025` · Overland Park, KS
+`Oct 2024 – Present` · Overland Park, KS
 
 Designed LLM-powered automation, fraud detection, and explainable advisory tooling for enterprise financial services and regulatory compliance.
 
@@ -320,7 +320,7 @@ Engineered clinical/genomic data platforms, real-time monitoring, and reproducib
 <!-- ====================== CONTRIBUTION SNAKE ====================== -->
 <div align="center">
 
-## 🐍 Contribution
+## 🐍 Contribution Snake
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
@@ -373,7 +373,7 @@ open_to:
 <a href="https://github.com/Goutham-1012">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" />
 </a>
-<a href="https://github.com/Goutham-1012">
+<a href="https://goutham-1012.github.io/My-Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" />
 </a>
 
